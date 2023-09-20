@@ -63,7 +63,7 @@ git clone https://github.com/OusamaTheCoder/Github-Automation.git
 Once the script is set up, you can use it to push your project to GitHub. Here's how:
 
 ```bash
-github.sh "Your commit message"
+github.sh
 ```
 
 - If you've used the script before, it will use the settings saved in the `github_settings.txt` file.
@@ -72,7 +72,7 @@ github.sh "Your commit message"
 
 ## Author
 
-- `Ousama`(https://github.com/OusamaTheCoder)
+- `Ousama`
 
 ## License
 
