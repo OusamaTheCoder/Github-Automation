@@ -80,5 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspiration for this project (Thank you, night and songs, for the late-night coding inspiration!).
+- Inspiration for this project (Thanks night and songs, for the late-night coding inspiration!).
 - GitHub API documentation.
