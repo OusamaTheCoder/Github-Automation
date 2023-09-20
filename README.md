@@ -72,7 +72,7 @@ github.sh "Your commit message"
 
 ## Author
 
-- `[Ousama]`(<https://github.com/OusamaTheCoder>)
+- `Ousama`(https://github.com/OusamaTheCoder)
 
 ## License
 
